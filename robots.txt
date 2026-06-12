@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://gkracslv.github.io/ticaien-com-cn/sitemap.xml
